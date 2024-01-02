@@ -1,2 +1,2 @@
-# Unity_EDU_Gamed
+# Unity_EDU_Game
 This is a repo for unity education game project.
